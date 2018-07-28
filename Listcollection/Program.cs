@@ -64,7 +64,7 @@ namespace dictionary
             Console.WriteLine("_________________________________________");
             Console.WriteLine("Student name:{0}, Course:{1},Duration:{2}", sttemp1.name, sttemp1.coursename, sttemp1.duration);
 
-
+            //testing
             Console.Clear();
             List<student> sttemp2 = ListStudent.FindAll(cust => cust.duration >= 45 && cust.name.StartsWith("u"));
             foreach ( student item in sttemp2)
