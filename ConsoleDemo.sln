@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializable", "Serializabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDemo", "XMLDemo\XMLDemo.csproj", "{5C79D823-4008-40C4-964F-10A73E22460C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailDemo", "EmailDemo\EmailDemo.csproj", "{EEA1A406-EE17-4184-9317-F622BA80D1DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrincipal", "OpenClosedPrincipal\OpenClosedPrincipal.csproj", "{48A1BF97-E35D-47F2-BF58-C663B4B911B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{5C79D823-4008-40C4-964F-10A73E22460C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C79D823-4008-40C4-964F-10A73E22460C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C79D823-4008-40C4-964F-10A73E22460C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA1A406-EE17-4184-9317-F622BA80D1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA1A406-EE17-4184-9317-F622BA80D1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA1A406-EE17-4184-9317-F622BA80D1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA1A406-EE17-4184-9317-F622BA80D1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A1BF97-E35D-47F2-BF58-C663B4B911B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A1BF97-E35D-47F2-BF58-C663B4B911B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A1BF97-E35D-47F2-BF58-C663B4B911B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A1BF97-E35D-47F2-BF58-C663B4B911B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
