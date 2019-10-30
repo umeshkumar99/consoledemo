@@ -53,7 +53,7 @@ namespace ObserverPattern
                 {
                     if (_price != value)
                     {
-                        _price = value;
+                         _price = value;
                         Notify();
                     }
                 }
