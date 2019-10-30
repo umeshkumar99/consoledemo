@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailDemo", "EmailDemo\Emai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrincipal", "OpenClosedPrincipal\OpenClosedPrincipal.csproj", "{48A1BF97-E35D-47F2-BF58-C663B4B911B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{D6A2B5DD-2A96-4D7C-82C3-7D3F14FE42DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{48A1BF97-E35D-47F2-BF58-C663B4B911B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A1BF97-E35D-47F2-BF58-C663B4B911B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A1BF97-E35D-47F2-BF58-C663B4B911B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A2B5DD-2A96-4D7C-82C3-7D3F14FE42DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A2B5DD-2A96-4D7C-82C3-7D3F14FE42DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A2B5DD-2A96-4D7C-82C3-7D3F14FE42DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A2B5DD-2A96-4D7C-82C3-7D3F14FE42DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

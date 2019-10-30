@@ -15,8 +15,8 @@ namespace OpenClosedPrincipal
 
     public class MileageCalculator
     {
-        IEnumerable<Car> _cars;
-        public MileageCalculator(IEnumerable<Car> cars) { this._cars = cars; }
+        IEnumerable<ICar> _cars;
+        public MileageCalculator(IEnumerable<ICar> cars) { this._cars = cars; }
 
         public void CalculateMileage()
         {
