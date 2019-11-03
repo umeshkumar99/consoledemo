@@ -334,8 +334,8 @@ namespace Trial
             //b.Add(50);
             //Console.WriteLine(a==b);
             //System.Text.StringBuilder cb = new System.Text.StringBuilder();
-        
-            //string[] res;
+         
+            string[] res;
 
             int _a_size = 0;
             Console.WriteLine("Please string lenght");
